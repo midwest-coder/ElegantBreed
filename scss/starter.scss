@@ -115,8 +115,13 @@ body {
   fill: currentcolor;
 }
 
-
 @media(min-width:768px) {
+  .logo-img {
+    height: 30vh;
+  }
+}
+
+@media(min-width:480px) {
   .logo-img {
     height: 10vh;
   }
