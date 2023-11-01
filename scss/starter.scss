@@ -114,3 +114,10 @@ body {
 .bi {
   fill: currentcolor;
 }
+
+
+@media(min-width:768px) {
+  .logo-img {
+    height: 10vh;
+  }
+}
